@@ -1,5 +1,5 @@
 {
-  "name": "storybook-addon-data-theme-switcher",
+  "name": "flare-storybook-addon-data-theme-switcher",
   "version": "0.3.0",
   "description": "A Storybook addon to switch the data-theme attribute on the html element",
   "keywords": [
@@ -15,13 +15,13 @@
     "tailwindcss",
     "daisyUI"
   ],
-  "homepage": "https://github.com/paulbuechner/storybook-addon-data-theme-switcher",
+  "homepage": "https://github.com/flarehealth/storybook-addon-data-theme-switcher.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/paulbuechner/storybook-addon-data-theme-switcher"
+    "url": "https://github.com/flarehealth/storybook-addon-data-theme-switcher.git"
   },
   "license": "MIT",
-  "author": "Paul Büchner",
+  "author": "Flare Health",
   "type": "module",
   "exports": {
     ".": {
